@@ -368,8 +368,8 @@ to fix CSS, jQuery, layouts, cross-browers compatibility issues such as Safari
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg");
-  background: url("/mylogo1/usainbolt.jpg") top center;
+  background: url(https://drive.google.com/file/d/17W6cGQgj6JbHFuXR82Weps9uWc4xe8zF/view?usp=sharing);
+  background:top center;
   background-size: cover;
   position: relative;
 }
